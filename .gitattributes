@@ -1,0 +1,2 @@
+save/data/limnti/train_signals.pt filter=lfs diff=lfs merge=lfs -text
+save/data/zeolite/train_signals.pt filter=lfs diff=lfs merge=lfs -text
