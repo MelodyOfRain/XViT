@@ -4,3 +4,5 @@ save/model/zeolite/xvit/*.pkl filter=lfs diff=lfs merge=lfs -text
 save/model/zeolite/vit_dc/*.pkl filter=lfs diff=lfs merge=lfs -text
 save/model/limnti/vit_dc/*.pkl filter=lfs diff=lfs merge=lfs -text
 save/model/limnti/xvit/*.pkl filter=lfs diff=lfs merge=lfs -text
+save/data/zeolite/mixed/*.pt filter=lfs diff=lfs merge=lfs -text
+save/data/limnti/mixed/*.pt filter=lfs diff=lfs merge=lfs -text
