@@ -1,6 +1,6 @@
 save/data/limnti/train_signals.pt filter=lfs diff=lfs merge=lfs -text
 save/data/zeolite/train_signals.pt filter=lfs diff=lfs merge=lfs -text
-save/zeolite/xvit/*.pkl filter=lfs diff=lfs merge=lfs -text
-save/zeolite/vit_dc/*.pkl filter=lfs diff=lfs merge=lfs -text
-save/limnti/vit_dc/*.pkl filter=lfs diff=lfs merge=lfs -text
-save/limnti/xvit/*.pkl filter=lfs diff=lfs merge=lfs -text
+save/model/zeolite/xvit/*.pkl filter=lfs diff=lfs merge=lfs -text
+save/model/zeolite/vit_dc/*.pkl filter=lfs diff=lfs merge=lfs -text
+save/model/limnti/vit_dc/*.pkl filter=lfs diff=lfs merge=lfs -text
+save/model/limnti/xvit/*.pkl filter=lfs diff=lfs merge=lfs -text
