@@ -1,7 +1,6 @@
 import torch
 from torch import nn
 import math
-import numpy as np
 
 class CNN_NFhead(nn.Module):
     def __init__(self, n_layer,hidden_dim=64,ks=15,dim=4501):
